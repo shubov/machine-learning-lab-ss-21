@@ -1,4 +1,4 @@
-# Self-written Scikit-Learn
+# Self-written "Scikit-Learn" (package of ML algorithms)
 ### University of Passau: Machine Llearning Lab (SS-21)
 
 ## Structure:
